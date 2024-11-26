@@ -1,0 +1,1 @@
+http://www.smszone.in/sendsms.asp?page=SendSmsBulk&username=919443261587&password=2617&number=" + mobilenumber + "&message=Your-Verification-Number=" + vnumber + "&scheduledate=01/01/08 
